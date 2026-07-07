@@ -1,0 +1,6 @@
+{
+  "name": "Aweni Organics",
+  "description": "An ultra-premium, high-end editorial digital showroom and e-commerce experience for organic luxury skincare, featuring active client-side Supabase integration, immersive WebGL-like organic fluid visuals, 3D tilt interaction states, custom magnetic action buttons, and a complete administrative control matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
