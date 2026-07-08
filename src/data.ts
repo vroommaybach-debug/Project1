@@ -8,7 +8,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     description: 'A decadent, cloud-like moisturizer crafted with Grade-A raw Shea butter, cold-pressed almond oil, and premium botanicals. Hand-whipped to pristine perfection for instant cellular absorption and deep, long-lasting dermal hydration.',
     price: 18500,
     stock_count: 42,
-    images: ['/src/assets/images/shea_butter_jar_1783418086221.jpg'],
+    images: ['/assets/images/shea_butter_jar_1783418086221.jpg'],
     category: 'Shea',
     ingredients: ['Grade-A Raw Shea Butter', 'Cold-Pressed Sweet Almond Oil', 'Organic Jojoba Seed Oil', 'Vitamin E (Tocopherol)', 'Sandalwood & Vanilla Essential Oils'],
     created_at: new Date('2026-01-01').toISOString()
@@ -20,7 +20,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     description: 'A premium, ultra-light facial and body oil infused with raw coconut nectar, fractionated coconut lipids, and active squalane. Restores the skins protective lipid barrier while imparting a sublime, non-greasy satin finish.',
     price: 15000,
     stock_count: 28,
-    images: ['/src/assets/images/coconut_oil_bottle_1783418099199.jpg'],
+    images: ['/assets/images/coconut_oil_bottle_1783418099199.jpg'],
     category: 'Coconut',
     ingredients: ['Fractionated Coconut Oil', 'Organic Coconut Nectar Extract', 'Olive-Derived Squalane', 'Rosehip Seed Oil', 'Neroli Blossom Essential Oil'],
     created_at: new Date('2026-01-02').toISOString()
@@ -32,7 +32,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     description: 'A high-performance purifying bar combining traditional African black soap with medical-grade activated charcoal. Gently draws out deep dermal impurities, regulates sebum production, and calms compromised skin barriers.',
     price: 12000,
     stock_count: 55,
-    images: ['/src/assets/images/black_soap_bar_1783418111695.jpg'],
+    images: ['/assets/images/black_soap_bar_1783418111695.jpg'],
     category: 'Black Soap',
     ingredients: ['Saponified Raw Shea Butter', 'Cocoa Pod Ash', 'Activated Bamboo Charcoal', 'Organic Aloe Vera Leaf Juice', 'Tea Tree & Eucalyptus Leaf Essential Oils'],
     created_at: new Date('2026-01-03').toISOString()

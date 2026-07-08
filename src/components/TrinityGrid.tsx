@@ -13,7 +13,7 @@ export const TrinityGrid: React.FC<TrinityGridProps> = ({ onPillarClick }) => {
       title: 'Raw Shea Butter',
       subtitle: 'Whipped Soufflé & Cold Creams',
       desc: 'Formulated using premium, raw wild-harvested Shea butter from local Nigerian cooperatives. Aerated to high-fluff soufflé states that dissolve instantly on contact, supporting cell renewal.',
-      image: '/src/assets/images/shea_butter_jar_1783418086221.jpg',
+      image: '/assets/images/shea_butter_jar_1783418086221.jpg',
       category: 'Shea',
       accent: 'border-brand-terracotta text-brand-terracotta',
       bg: 'bg-brand-terracotta/5'
@@ -22,7 +22,7 @@ export const TrinityGrid: React.FC<TrinityGridProps> = ({ onPillarClick }) => {
       title: 'Coconut Nectar',
       subtitle: 'Satin Facials & Skin Lipids',
       desc: 'Formulated with organic, cold-pressed fractionated coconut lipids and pure squalane. Deep cellular moisture without heavy grease, leaving a luminous pearl finish.',
-      image: '/src/assets/images/coconut_oil_bottle_1783418099199.jpg',
+      image: '/assets/images/coconut_oil_bottle_1783418099199.jpg',
       category: 'Coconut',
       accent: 'border-brand-olive text-brand-olive',
       bg: 'bg-brand-olive/5'
@@ -31,7 +31,7 @@ export const TrinityGrid: React.FC<TrinityGridProps> = ({ onPillarClick }) => {
       title: 'Traditional Soap',
       subtitle: 'Activated Charcoal Purifiers',
       desc: 'Crafted using age-old cocoa pod ash, saponified Shea butter, and bamboo activated carbon. Draws out environmental pollutants and sebum safely while soothing skin tissue.',
-      image: '/src/assets/images/black_soap_bar_1783418111695.jpg',
+      image: '/assets/images/black_soap_bar_1783418111695.jpg',
       category: 'Black Soap',
       accent: 'border-brand-charcoal text-brand-charcoal',
       bg: 'bg-brand-beige/20'
